@@ -1,3 +1,4 @@
+[Alt text] ()
 # fastText Toxi Comment Prediction
 
 What is fastText?
