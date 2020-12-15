@@ -1,4 +1,4 @@
-[Alt text] ()
+![] (fasttext-logo-color-web.png)
 # fastText Toxi Comment Prediction
 
 What is fastText?
